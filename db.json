@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Samsung Galaxy 15F",
+      "brand": "Samsung",
+      "category": "Phones",
+      "price": "987",
+      "description": "Smartphone",
+      "createdAt": "2024-04-20"
+    },
+    {
+      "id": "190c",
+      "name": "Printer",
+      "brand": "Epson",
+      "category": "Accessories",
+      "price": "450",
+      "description": "Test",
+      "createdAt": "2024-04-20"
+    }
+  ]
+}
